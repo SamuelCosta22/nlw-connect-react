@@ -14,7 +14,6 @@ export function ToastContainer() {
       pauseOnHover
       theme="dark"
       transition={Bounce}
-      style={{ width: '100%', maxWidth: '560px', backgroundColor: 'red' }}
     />
   );
 }
